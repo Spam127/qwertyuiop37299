@@ -1043,4 +1043,4 @@ client.on('ready', () => {
 
 
 
-client.login("BOT_TOKEN");
+client.login("NTM0MDAzMTEwODQzMTIxNjY1.DxzRYQ.RajfPdIT6wiGTdXsqdmLKgsjyAo");
